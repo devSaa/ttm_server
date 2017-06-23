@@ -1,0 +1,56 @@
+14:08:33.039 [main] INFO  infoLogger - Application context initialized
+14:08:33.501 [main] INFO  infoLogger - Connection manager initialized
+14:08:35.210 [main] INFO  infoLogger - user testUser1 added to database
+14:08:35.947 [main] INFO  infoLogger - user testUser1 updated in database
+14:08:36.635 [main] INFO  infoLogger - user testUser1 deleted from database
+14:08:36.818 [main] INFO  infoLogger - user testUser1 added to database
+14:08:37.368 [main] INFO  infoLogger - user testUser1 updated in database
+14:08:37.552 [main] INFO  infoLogger - user testUser1 deleted from database
+14:08:37.557 [main] INFO  infoLogger - Application context initialized
+14:08:37.800 [main] INFO  infoLogger - user testUser1 added to database
+14:08:37.921 [main] INFO  infoLogger - user testUser1 logged in to database
+14:08:38.042 [main] INFO  infoLogger - user testUser1 deleted from database
+14:08:38.223 [main] INFO  infoLogger - user testUser1 added to database
+14:08:38.285 [main] INFO  infoLogger - user testUser1 updated in database
+14:08:38.466 [main] INFO  infoLogger - user testUser1 logged in to database
+14:08:38.527 [main] INFO  infoLogger - user testUser1 deleted from database
+14:08:38.707 [main] INFO  infoLogger - user testUser1 added to database
+14:08:38.920 [main] INFO  infoLogger - user testUser1 deleted from database
+15:06:13.390 [main] INFO  infoLogger - Application context initialized
+15:06:13.565 [main] INFO  infoLogger - Connection manager initialized
+15:06:14.955 [main] INFO  infoLogger - user testUser1 added to database
+15:06:15.567 [main] INFO  infoLogger - user testUser1 updated in database
+15:06:16.138 [main] INFO  infoLogger - user testUser1 deleted from database
+15:06:16.324 [main] INFO  infoLogger - user testUser1 added to database
+15:06:16.879 [main] INFO  infoLogger - user testUser1 updated in database
+15:06:17.066 [main] INFO  infoLogger - user testUser1 deleted from database
+15:07:06.842 [main] INFO  infoLogger - Application context initialized
+15:07:07.001 [main] INFO  infoLogger - Connection manager initialized
+15:07:08.523 [main] INFO  infoLogger - user testUser1 added to database
+15:07:09.146 [main] INFO  infoLogger - user testUser1 updated in database
+15:07:09.714 [main] INFO  infoLogger - user testUser1 deleted from database
+15:07:09.899 [main] INFO  infoLogger - user testUser1 added to database
+15:07:10.450 [main] INFO  infoLogger - user testUser1 updated in database
+15:07:10.634 [main] INFO  infoLogger - user testUser1 deleted from database
+15:07:10.636 [main] INFO  infoLogger - Application context initialized
+15:07:10.881 [main] INFO  infoLogger - user testUser1 added to database
+15:07:11.004 [main] INFO  infoLogger - user testUser1 logged in to database
+15:07:11.127 [main] INFO  infoLogger - user testUser1 deleted from database
+15:07:11.310 [main] INFO  infoLogger - user testUser1 added to database
+15:07:11.372 [main] INFO  infoLogger - user testUser1 updated in database
+15:07:11.555 [main] INFO  infoLogger - user testUser1 logged in to database
+15:07:11.617 [main] INFO  infoLogger - user testUser1 deleted from database
+15:07:11.800 [main] INFO  infoLogger - user testUser1 added to database
+15:07:11.923 [main] INFO  infoLogger - user testUser1 deleted from database
+15:30:03.537 [main] INFO  infoLogger - Application started
+15:30:03.541 [main] INFO  infoLogger - Application context initialized
+15:30:03.547 [Thread-1] INFO  infoLogger - Server socket ready
+15:30:24.844 [pool-2-thread-1] INFO  infoLogger - Message received
+15:30:24.994 [pool-2-thread-1] INFO  infoLogger - Connection manager initialized
+15:30:26.141 [pool-2-thread-1] INFO  infoLogger - user Andrey logged in to database
+15:30:26.141 [pool-2-thread-1] INFO  infoLogger - Andrey - login successful
+15:30:26.155 [pool-2-thread-1] INFO  infoLogger - Response message sent
+15:31:04.685 [pool-2-thread-2] INFO  infoLogger - Message received
+15:31:04.742 [pool-2-thread-2] INFO  infoLogger - user Andrey updated in database
+15:31:04.818 [pool-2-thread-2] INFO  infoLogger - Andrey - update successful
+15:31:04.851 [pool-2-thread-2] INFO  infoLogger - Response message sent

@@ -1,0 +1,76 @@
+12:06:11.872 [main] INFO  infoLogger - Application started
+12:06:11.876 [main] INFO  infoLogger - Application context initialized
+12:06:44.511 [pool-2-thread-1] INFO  infoLogger - Message received
+12:06:44.635 [pool-2-thread-1] INFO  infoLogger - Connection manager initialized
+12:06:45.601 [pool-2-thread-1] INFO  infoLogger - user Slavik logged in to database
+12:06:45.601 [pool-2-thread-1] INFO  infoLogger - Slavik - login successful
+12:06:45.610 [pool-2-thread-1] INFO  infoLogger - Response message sent
+12:07:04.743 [pool-2-thread-2] INFO  infoLogger - Message received
+12:07:04.792 [pool-2-thread-2] INFO  infoLogger - user Slavik updated in database
+12:07:04.840 [pool-2-thread-2] INFO  infoLogger - Slavik - update successful
+20:51:57.687 [main] INFO  infoLogger - Application started
+20:51:57.690 [main] INFO  infoLogger - Application context initialized
+20:52:35.265 [pool-2-thread-1] INFO  infoLogger - Message received
+20:52:35.607 [pool-2-thread-1] INFO  infoLogger - Connection manager initialized
+20:52:36.693 [pool-2-thread-1] INFO  infoLogger - Response message sent
+20:53:11.418 [pool-2-thread-2] INFO  infoLogger - Message received
+20:53:11.557 [pool-2-thread-2] INFO  infoLogger - user testuser58 added to database
+20:53:11.557 [pool-2-thread-2] INFO  infoLogger - testuser58 - create successful
+20:53:11.559 [pool-2-thread-2] INFO  infoLogger - Response message sent
+20:53:14.581 [pool-2-thread-3] INFO  infoLogger - Message received
+20:53:14.635 [pool-2-thread-3] INFO  infoLogger - user testuser58 updated in database
+20:53:14.682 [pool-2-thread-3] INFO  infoLogger - testuser58 - update successful
+20:53:14.683 [pool-2-thread-3] INFO  infoLogger - Response message sent
+20:53:40.522 [pool-2-thread-4] INFO  infoLogger - Message received
+20:53:40.747 [pool-2-thread-4] INFO  infoLogger - user testuser58 updated in database
+20:53:40.808 [pool-2-thread-4] INFO  infoLogger - testuser58 - update successful
+20:53:40.812 [pool-2-thread-4] INFO  infoLogger - Response message sent
+20:54:16.641 [pool-2-thread-5] INFO  infoLogger - Message received
+20:54:16.731 [pool-2-thread-5] INFO  infoLogger - user testuser58 logged in to database
+20:54:16.732 [pool-2-thread-5] INFO  infoLogger - testuser58 - login successful
+20:54:16.734 [pool-2-thread-5] INFO  infoLogger - Response message sent
+20:54:52.359 [pool-2-thread-6] INFO  infoLogger - Message received
+20:54:52.405 [pool-2-thread-6] INFO  infoLogger - user testuser58 updated in database
+20:54:52.450 [pool-2-thread-6] INFO  infoLogger - testuser58 - update successful
+20:54:52.452 [pool-2-thread-6] INFO  infoLogger - Response message sent
+20:55:41.690 [pool-2-thread-7] INFO  infoLogger - Message received
+20:55:41.905 [pool-2-thread-7] INFO  infoLogger - user testuser58 updated in database
+20:55:41.949 [pool-2-thread-7] INFO  infoLogger - testuser58 - update successful
+20:55:41.953 [pool-2-thread-7] INFO  infoLogger - Response message sent
+20:56:07.769 [pool-2-thread-8] INFO  infoLogger - Message received
+20:56:07.812 [pool-2-thread-8] INFO  infoLogger - Response message sent
+20:56:18.033 [pool-2-thread-1] INFO  infoLogger - Message received
+20:56:18.122 [pool-2-thread-1] INFO  infoLogger - user testuser58 logged in to database
+20:56:18.122 [pool-2-thread-1] INFO  infoLogger - testuser58 - login successful
+20:56:18.125 [pool-2-thread-1] INFO  infoLogger - Response message sent
+20:56:51.997 [pool-2-thread-2] INFO  infoLogger - Message received
+20:56:52.042 [pool-2-thread-2] INFO  infoLogger - user testuser58 updated in database
+20:56:52.086 [pool-2-thread-2] INFO  infoLogger - testuser58 - update successful
+20:56:52.088 [pool-2-thread-2] INFO  infoLogger - Response message sent
+20:57:27.288 [pool-2-thread-3] INFO  infoLogger - Message received
+20:57:27.419 [pool-2-thread-3] INFO  infoLogger - user testuser58 updated in database
+20:57:27.461 [pool-2-thread-3] INFO  infoLogger - testuser58 - update successful
+20:57:27.462 [pool-2-thread-3] INFO  infoLogger - Response message sent
+20:58:15.657 [pool-2-thread-4] INFO  infoLogger - Message received
+20:58:15.745 [pool-2-thread-4] INFO  infoLogger - user testuser58 logged in to database
+20:58:15.745 [pool-2-thread-4] INFO  infoLogger - testuser58 - login successful
+20:58:15.746 [pool-2-thread-4] INFO  infoLogger - Response message sent
+20:59:02.093 [pool-2-thread-5] INFO  infoLogger - Message received
+20:59:02.312 [pool-2-thread-5] INFO  infoLogger - user testuser58 updated in database
+20:59:02.355 [pool-2-thread-5] INFO  infoLogger - testuser58 - update successful
+20:59:02.356 [pool-2-thread-5] INFO  infoLogger - Response message sent
+20:59:08.711 [pool-2-thread-6] INFO  infoLogger - Message received
+20:59:08.925 [pool-2-thread-6] INFO  infoLogger - user testuser58 updated in database
+20:59:08.968 [pool-2-thread-6] INFO  infoLogger - testuser58 - update successful
+20:59:08.971 [pool-2-thread-6] INFO  infoLogger - Response message sent
+20:59:27.439 [pool-2-thread-7] INFO  infoLogger - Message received
+20:59:27.526 [pool-2-thread-7] INFO  infoLogger - user testuser58 logged in to database
+20:59:27.526 [pool-2-thread-7] INFO  infoLogger - testuser58 - login successful
+20:59:27.528 [pool-2-thread-7] INFO  infoLogger - Response message sent
+20:59:37.203 [pool-2-thread-8] INFO  infoLogger - Message received
+20:59:37.247 [pool-2-thread-8] INFO  infoLogger - user testuser58 updated in database
+20:59:37.291 [pool-2-thread-8] INFO  infoLogger - testuser58 - update successful
+20:59:37.294 [pool-2-thread-8] INFO  infoLogger - Response message sent
+21:00:11.248 [pool-2-thread-1] INFO  infoLogger - Message received
+21:00:11.292 [pool-2-thread-1] INFO  infoLogger - Response message sent
+21:01:02.320 [pool-2-thread-2] INFO  infoLogger - Message received

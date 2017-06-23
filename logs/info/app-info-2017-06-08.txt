@@ -1,0 +1,381 @@
+15:30:55.560 [main] INFO  infoLogger - Application started
+15:30:55.656 [main] INFO  infoLogger - Application context initialized
+15:38:41.413 [main] INFO  infoLogger - Application context initialized
+15:38:41.887 [main] INFO  infoLogger - Connection manager initialized
+15:38:43.236 [main] INFO  infoLogger - user testUser1 added to database
+15:38:43.754 [main] INFO  infoLogger - user testUser1 updated in database
+15:38:43.897 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:00.476 [main] INFO  infoLogger - Application context initialized
+15:39:00.699 [main] INFO  infoLogger - Connection manager initialized
+15:39:01.746 [main] INFO  infoLogger - user testUser1 added to database
+15:39:02.192 [main] INFO  infoLogger - user testUser1 updated in database
+15:39:02.598 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:02.730 [main] INFO  infoLogger - user testUser1 added to database
+15:39:03.125 [main] INFO  infoLogger - user testUser1 updated in database
+15:39:03.256 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:20.872 [main] INFO  infoLogger - Application context initialized
+15:39:21.067 [main] INFO  infoLogger - Connection manager initialized
+15:39:22.118 [main] INFO  infoLogger - user testUser1 added to database
+15:39:22.561 [main] INFO  infoLogger - user testUser1 updated in database
+15:39:22.960 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:23.090 [main] INFO  infoLogger - user testUser1 added to database
+15:39:23.481 [main] INFO  infoLogger - user testUser1 updated in database
+15:39:23.612 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:37.605 [main] INFO  infoLogger - Application context initialized
+15:39:37.758 [main] INFO  infoLogger - Connection manager initialized
+15:39:39.295 [main] INFO  infoLogger - user testUser1 added to database
+15:39:39.737 [main] INFO  infoLogger - user testUser1 updated in database
+15:39:40.144 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:40.273 [main] INFO  infoLogger - user testUser1 added to database
+15:39:40.658 [main] INFO  infoLogger - user testUser1 updated in database
+15:39:40.787 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:40.857 [main] INFO  infoLogger - Application context initialized
+15:39:41.024 [main] INFO  infoLogger - user testUser1 added to database
+15:39:41.109 [main] INFO  infoLogger - user testUser1 logged in to database
+15:39:41.195 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:41.321 [main] INFO  infoLogger - user testUser1 added to database
+15:39:41.365 [main] INFO  infoLogger - user testUser1 updated in database
+15:39:41.492 [main] INFO  infoLogger - user testUser1 logged in to database
+15:39:41.534 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:41.666 [main] INFO  infoLogger - user testUser1 added to database
+15:39:41.750 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:49.033 [main] INFO  infoLogger - Application context initialized
+15:39:49.192 [main] INFO  infoLogger - Connection manager initialized
+15:39:50.199 [main] INFO  infoLogger - user testUser1 added to database
+15:39:50.644 [main] INFO  infoLogger - user testUser1 updated in database
+15:39:51.040 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:51.168 [main] INFO  infoLogger - user testUser1 added to database
+15:39:51.558 [main] INFO  infoLogger - user testUser1 updated in database
+15:39:51.687 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:51.691 [main] INFO  infoLogger - Application context initialized
+15:39:51.862 [main] INFO  infoLogger - user testUser1 added to database
+15:39:51.946 [main] INFO  infoLogger - user testUser1 logged in to database
+15:39:52.031 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:52.158 [main] INFO  infoLogger - user testUser1 added to database
+15:39:52.201 [main] INFO  infoLogger - user testUser1 updated in database
+15:39:52.328 [main] INFO  infoLogger - user testUser1 logged in to database
+15:39:52.370 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:52.497 [main] INFO  infoLogger - user testUser1 added to database
+15:39:52.581 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:57.290 [main] INFO  infoLogger - Application context initialized
+15:39:57.443 [main] INFO  infoLogger - Connection manager initialized
+15:39:58.454 [main] INFO  infoLogger - user testUser1 added to database
+15:39:58.899 [main] INFO  infoLogger - user testUser1 updated in database
+15:39:59.299 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:59.468 [main] INFO  infoLogger - user testUser1 added to database
+15:39:59.858 [main] INFO  infoLogger - user testUser1 updated in database
+15:39:59.992 [main] INFO  infoLogger - user testUser1 deleted from database
+15:39:59.999 [main] INFO  infoLogger - Application context initialized
+15:40:00.170 [main] INFO  infoLogger - user testUser1 added to database
+15:40:00.254 [main] INFO  infoLogger - user testUser1 logged in to database
+15:40:00.338 [main] INFO  infoLogger - user testUser1 deleted from database
+15:40:00.465 [main] INFO  infoLogger - user testUser1 added to database
+15:40:00.508 [main] INFO  infoLogger - user testUser1 updated in database
+15:40:00.640 [main] INFO  infoLogger - user testUser1 logged in to database
+15:40:00.683 [main] INFO  infoLogger - user testUser1 deleted from database
+15:40:00.810 [main] INFO  infoLogger - user testUser1 added to database
+15:40:00.900 [main] INFO  infoLogger - user testUser1 deleted from database
+15:40:06.620 [main] INFO  infoLogger - Application context initialized
+15:40:06.767 [main] INFO  infoLogger - Connection manager initialized
+15:40:07.765 [main] INFO  infoLogger - user testUser1 added to database
+15:40:08.215 [main] INFO  infoLogger - user testUser1 updated in database
+15:40:08.620 [main] INFO  infoLogger - user testUser1 deleted from database
+15:40:08.751 [main] INFO  infoLogger - user testUser1 added to database
+15:40:09.137 [main] INFO  infoLogger - user testUser1 updated in database
+15:40:09.269 [main] INFO  infoLogger - user testUser1 deleted from database
+15:40:09.275 [main] INFO  infoLogger - Application context initialized
+15:40:09.442 [main] INFO  infoLogger - user testUser1 added to database
+15:40:09.526 [main] INFO  infoLogger - user testUser1 logged in to database
+15:40:09.611 [main] INFO  infoLogger - user testUser1 deleted from database
+15:40:09.739 [main] INFO  infoLogger - user testUser1 added to database
+15:40:09.781 [main] INFO  infoLogger - user testUser1 updated in database
+15:40:09.910 [main] INFO  infoLogger - user testUser1 logged in to database
+15:40:09.954 [main] INFO  infoLogger - user testUser1 deleted from database
+15:40:10.084 [main] INFO  infoLogger - user testUser1 added to database
+15:40:10.170 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:14.736 [main] INFO  infoLogger - Application context initialized
+15:41:14.888 [main] INFO  infoLogger - Connection manager initialized
+15:41:16.111 [main] INFO  infoLogger - user testUser1 added to database
+15:41:16.561 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:16.956 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:17.083 [main] INFO  infoLogger - user testUser1 added to database
+15:41:17.466 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:17.595 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:17.814 [main] INFO  infoLogger - Application context initialized
+15:41:17.983 [main] INFO  infoLogger - user testUser1 added to database
+15:41:18.067 [main] INFO  infoLogger - user testUser1 logged in to database
+15:41:18.151 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:18.276 [main] INFO  infoLogger - user testUser1 added to database
+15:41:18.318 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:18.446 [main] INFO  infoLogger - user testUser1 logged in to database
+15:41:18.488 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:18.613 [main] INFO  infoLogger - user testUser1 added to database
+15:41:18.697 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:23.794 [main] INFO  infoLogger - Application context initialized
+15:41:23.947 [main] INFO  infoLogger - Connection manager initialized
+15:41:24.965 [main] INFO  infoLogger - user testUser1 added to database
+15:41:25.408 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:25.818 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:25.947 [main] INFO  infoLogger - user testUser1 added to database
+15:41:26.332 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:26.464 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:26.470 [main] INFO  infoLogger - Application context initialized
+15:41:26.643 [main] INFO  infoLogger - user testUser1 added to database
+15:41:26.728 [main] INFO  infoLogger - user testUser1 logged in to database
+15:41:26.813 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:26.940 [main] INFO  infoLogger - user testUser1 added to database
+15:41:27.114 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:27.242 [main] INFO  infoLogger - user testUser1 logged in to database
+15:41:27.285 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:27.411 [main] INFO  infoLogger - user testUser1 added to database
+15:41:27.497 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:32.213 [main] INFO  infoLogger - Application context initialized
+15:41:32.363 [main] INFO  infoLogger - Connection manager initialized
+15:41:33.361 [main] INFO  infoLogger - user testUser1 added to database
+15:41:33.804 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:34.198 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:34.327 [main] INFO  infoLogger - user testUser1 added to database
+15:41:34.751 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:34.882 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:34.885 [main] INFO  infoLogger - Application context initialized
+15:41:35.057 [main] INFO  infoLogger - user testUser1 added to database
+15:41:35.141 [main] INFO  infoLogger - user testUser1 logged in to database
+15:41:35.226 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:35.354 [main] INFO  infoLogger - user testUser1 added to database
+15:41:35.397 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:35.523 [main] INFO  infoLogger - user testUser1 logged in to database
+15:41:35.565 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:35.691 [main] INFO  infoLogger - user testUser1 added to database
+15:41:35.775 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:40.685 [main] INFO  infoLogger - Application context initialized
+15:41:40.837 [main] INFO  infoLogger - Connection manager initialized
+15:41:41.843 [main] INFO  infoLogger - user testUser1 added to database
+15:41:42.289 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:42.684 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:42.815 [main] INFO  infoLogger - user testUser1 added to database
+15:41:43.203 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:43.336 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:43.507 [main] INFO  infoLogger - Application context initialized
+15:41:43.680 [main] INFO  infoLogger - user testUser1 added to database
+15:41:43.766 [main] INFO  infoLogger - user testUser1 logged in to database
+15:41:43.854 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:43.980 [main] INFO  infoLogger - user testUser1 added to database
+15:41:44.023 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:44.150 [main] INFO  infoLogger - user testUser1 logged in to database
+15:41:44.193 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:44.319 [main] INFO  infoLogger - user testUser1 added to database
+15:41:44.404 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:49.766 [main] INFO  infoLogger - Application context initialized
+15:41:49.915 [main] INFO  infoLogger - Connection manager initialized
+15:41:50.913 [main] INFO  infoLogger - user testUser1 added to database
+15:41:51.354 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:51.758 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:51.889 [main] INFO  infoLogger - user testUser1 added to database
+15:41:52.275 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:52.404 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:52.409 [main] INFO  infoLogger - Application context initialized
+15:41:52.578 [main] INFO  infoLogger - user testUser1 added to database
+15:41:52.663 [main] INFO  infoLogger - user testUser1 logged in to database
+15:41:52.748 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:52.875 [main] INFO  infoLogger - user testUser1 added to database
+15:41:52.918 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:53.047 [main] INFO  infoLogger - user testUser1 logged in to database
+15:41:53.092 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:53.220 [main] INFO  infoLogger - user testUser1 added to database
+15:41:53.304 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:57.808 [main] INFO  infoLogger - Application context initialized
+15:41:57.962 [main] INFO  infoLogger - Connection manager initialized
+15:41:58.970 [main] INFO  infoLogger - user testUser1 added to database
+15:41:59.413 [main] INFO  infoLogger - user testUser1 updated in database
+15:41:59.816 [main] INFO  infoLogger - user testUser1 deleted from database
+15:41:59.944 [main] INFO  infoLogger - user testUser1 added to database
+15:42:00.326 [main] INFO  infoLogger - user testUser1 updated in database
+15:42:00.457 [main] INFO  infoLogger - user testUser1 deleted from database
+15:42:00.646 [main] INFO  infoLogger - Application context initialized
+15:42:00.822 [main] INFO  infoLogger - user testUser1 added to database
+15:42:00.907 [main] INFO  infoLogger - user testUser1 logged in to database
+15:42:00.994 [main] INFO  infoLogger - user testUser1 deleted from database
+15:42:01.122 [main] INFO  infoLogger - user testUser1 added to database
+15:42:01.167 [main] INFO  infoLogger - user testUser1 updated in database
+15:42:01.293 [main] INFO  infoLogger - user testUser1 logged in to database
+15:42:01.336 [main] INFO  infoLogger - user testUser1 deleted from database
+15:42:01.463 [main] INFO  infoLogger - user testUser1 added to database
+15:42:01.549 [main] INFO  infoLogger - user testUser1 deleted from database
+15:42:05.831 [main] INFO  infoLogger - Application context initialized
+15:42:05.984 [main] INFO  infoLogger - Connection manager initialized
+15:42:06.995 [main] INFO  infoLogger - user testUser1 added to database
+15:42:07.437 [main] INFO  infoLogger - user testUser1 updated in database
+15:42:07.836 [main] INFO  infoLogger - user testUser1 deleted from database
+15:42:07.965 [main] INFO  infoLogger - user testUser1 added to database
+15:42:08.353 [main] INFO  infoLogger - user testUser1 updated in database
+15:42:08.484 [main] INFO  infoLogger - user testUser1 deleted from database
+15:42:08.495 [main] INFO  infoLogger - Application context initialized
+15:42:08.669 [main] INFO  infoLogger - user testUser1 added to database
+15:42:08.754 [main] INFO  infoLogger - user testUser1 logged in to database
+15:42:08.839 [main] INFO  infoLogger - user testUser1 deleted from database
+15:42:08.967 [main] INFO  infoLogger - user testUser1 added to database
+15:42:09.010 [main] INFO  infoLogger - user testUser1 updated in database
+15:42:09.137 [main] INFO  infoLogger - user testUser1 logged in to database
+15:42:09.179 [main] INFO  infoLogger - user testUser1 deleted from database
+15:42:09.306 [main] INFO  infoLogger - user testUser1 added to database
+15:42:09.391 [main] INFO  infoLogger - user testUser1 deleted from database
+16:24:58.257 [main] INFO  infoLogger - Application started
+16:24:58.262 [main] INFO  infoLogger - Application context initialized
+16:24:58.264 [Thread-1] INFO  infoLogger - Server socket ready
+16:25:26.969 [main] INFO  infoLogger - Server socket closed
+16:25:26.969 [pool-2-thread-1] INFO  infoLogger - Message received
+16:25:27.101 [main] INFO  infoLogger - Connection manager initialized
+16:25:27.101 [main] INFO  infoLogger - Connection manager closed
+16:25:27.101 [main] INFO  infoLogger - Application stopped
+16:26:03.761 [main] INFO  infoLogger - Application started
+16:26:03.765 [main] INFO  infoLogger - Application context initialized
+16:26:03.767 [Thread-1] INFO  infoLogger - Server socket ready
+16:26:40.601 [pool-2-thread-1] INFO  infoLogger - Message received
+16:26:40.729 [pool-2-thread-1] INFO  infoLogger - Connection manager initialized
+16:26:41.708 [pool-2-thread-1] INFO  infoLogger - user Anton logged in to database
+16:26:41.708 [pool-2-thread-1] INFO  infoLogger - Anton - login successful
+16:26:41.710 [pool-2-thread-1] INFO  infoLogger - Response message sent
+16:27:00.007 [pool-2-thread-2] INFO  infoLogger - Message received
+16:27:00.053 [pool-2-thread-2] INFO  infoLogger - user Anton updated in database
+16:27:00.100 [pool-2-thread-2] INFO  infoLogger - Anton - update successful
+16:27:00.102 [pool-2-thread-2] INFO  infoLogger - Response message sent
+16:27:32.672 [main] INFO  infoLogger - Server socket closed
+16:27:32.675 [main] INFO  infoLogger - Connection manager closed
+16:27:32.675 [main] INFO  infoLogger - Application stopped
+16:35:44.852 [main] INFO  infoLogger - Application started
+16:35:44.856 [main] INFO  infoLogger - Application context initialized
+16:35:44.858 [Thread-1] INFO  infoLogger - Server socket ready
+16:36:13.062 [pool-2-thread-1] INFO  infoLogger - Message received
+16:36:13.194 [pool-2-thread-1] INFO  infoLogger - Connection manager initialized
+16:36:14.379 [pool-2-thread-1] INFO  infoLogger - user Slavik logged in to database
+16:36:14.380 [pool-2-thread-1] INFO  infoLogger - Slavik - login successful
+16:36:14.408 [pool-2-thread-1] INFO  infoLogger - Response message sent
+16:36:55.714 [pool-2-thread-2] INFO  infoLogger - Message received
+16:36:56.104 [pool-2-thread-2] INFO  infoLogger - user Slavik updated in database
+16:36:56.147 [pool-2-thread-2] INFO  infoLogger - Slavik - update successful
+16:36:56.149 [pool-2-thread-2] INFO  infoLogger - Response message sent
+16:37:29.327 [pool-2-thread-3] INFO  infoLogger - Message received
+16:37:29.421 [pool-2-thread-3] INFO  infoLogger - Response message sent
+16:38:04.104 [main] INFO  infoLogger - Server socket closed
+16:38:04.107 [main] INFO  infoLogger - Connection manager closed
+16:38:04.107 [main] INFO  infoLogger - Application stopped
+16:41:25.126 [main] INFO  infoLogger - Application started
+16:41:25.131 [main] INFO  infoLogger - Application context initialized
+16:41:25.133 [Thread-1] INFO  infoLogger - Server socket ready
+16:41:40.943 [main] INFO  infoLogger - Server socket closed
+16:41:40.943 [pool-2-thread-1] INFO  infoLogger - Message received
+16:41:41.070 [main] INFO  infoLogger - Connection manager initialized
+16:41:41.071 [main] INFO  infoLogger - Connection manager closed
+16:41:41.071 [main] INFO  infoLogger - Application stopped
+16:42:45.742 [main] INFO  infoLogger - Application started
+16:42:45.746 [main] INFO  infoLogger - Application context initialized
+16:42:45.748 [Thread-1] INFO  infoLogger - Server socket ready
+16:42:55.919 [main] INFO  infoLogger - Server socket closed
+16:42:55.919 [pool-2-thread-1] INFO  infoLogger - Message received
+16:42:56.049 [main] INFO  infoLogger - Connection manager initialized
+16:42:56.049 [main] INFO  infoLogger - Connection manager closed
+16:42:56.049 [main] INFO  infoLogger - Application stopped
+16:43:47.959 [main] INFO  infoLogger - Application started
+16:43:47.963 [main] INFO  infoLogger - Application context initialized
+16:43:47.965 [Thread-1] INFO  infoLogger - Server socket ready
+16:43:59.414 [main] INFO  infoLogger - Server socket closed
+16:43:59.414 [pool-2-thread-1] INFO  infoLogger - Message received
+16:43:59.543 [main] INFO  infoLogger - Connection manager initialized
+16:43:59.543 [main] INFO  infoLogger - Connection manager closed
+16:43:59.543 [main] INFO  infoLogger - Application stopped
+16:44:30.200 [main] INFO  infoLogger - Application started
+16:44:30.205 [main] INFO  infoLogger - Application context initialized
+16:44:30.207 [Thread-1] INFO  infoLogger - Server socket ready
+16:45:04.704 [main] INFO  infoLogger - Application started
+16:45:04.708 [main] INFO  infoLogger - Application context initialized
+16:45:04.710 [Thread-1] INFO  infoLogger - Server socket ready
+16:48:14.468 [main] INFO  infoLogger - Application started
+16:48:14.472 [main] INFO  infoLogger - Application context initialized
+16:48:14.474 [Thread-1] INFO  infoLogger - Server socket ready
+16:48:39.869 [main] INFO  infoLogger - Server socket closed
+16:48:39.869 [pool-2-thread-1] INFO  infoLogger - Message received
+16:48:39.999 [main] INFO  infoLogger - Connection manager initialized
+16:48:39.999 [main] INFO  infoLogger - Connection manager closed
+16:48:40.000 [main] INFO  infoLogger - Application stopped
+16:52:16.812 [main] INFO  infoLogger - Application started
+16:52:16.816 [main] INFO  infoLogger - Application context initialized
+16:52:16.818 [Thread-1] INFO  infoLogger - Server socket ready
+16:52:24.446 [main] INFO  infoLogger - Server socket closed
+16:52:24.446 [pool-2-thread-1] INFO  infoLogger - Message received
+16:52:24.574 [main] INFO  infoLogger - Connection manager initialized
+16:52:24.574 [main] INFO  infoLogger - Connection manager closed
+16:52:24.574 [main] INFO  infoLogger - Application stopped
+16:54:23.908 [main] INFO  infoLogger - Application started
+16:54:23.913 [main] INFO  infoLogger - Application context initialized
+16:54:23.915 [Thread-1] INFO  infoLogger - Server socket ready
+16:54:33.581 [main] INFO  infoLogger - Server socket closed
+16:54:33.581 [pool-2-thread-1] INFO  infoLogger - Message received
+16:54:33.708 [main] INFO  infoLogger - Connection manager initialized
+16:54:33.708 [main] INFO  infoLogger - Connection manager closed
+16:54:33.708 [main] INFO  infoLogger - Application stopped
+16:54:45.963 [main] INFO  infoLogger - Application started
+16:54:45.967 [main] INFO  infoLogger - Application context initialized
+16:54:45.969 [Thread-1] INFO  infoLogger - Server socket ready
+16:54:56.037 [main] INFO  infoLogger - Server socket closed
+16:54:56.037 [pool-2-thread-1] INFO  infoLogger - Message received
+16:54:56.165 [main] INFO  infoLogger - Connection manager initialized
+16:54:56.165 [main] INFO  infoLogger - Connection manager closed
+16:54:56.165 [main] INFO  infoLogger - Application stopped
+16:56:49.362 [main] INFO  infoLogger - Application started
+16:56:49.366 [main] INFO  infoLogger - Application context initialized
+16:56:49.369 [Thread-1] INFO  infoLogger - Server socket ready
+16:57:13.969 [pool-2-thread-1] INFO  infoLogger - Message received
+16:57:14.100 [pool-2-thread-1] INFO  infoLogger - Connection manager initialized
+16:57:15.104 [pool-2-thread-1] INFO  infoLogger - user Slavik logged in to database
+16:57:15.104 [pool-2-thread-1] INFO  infoLogger - Slavik - login successful
+16:57:15.108 [pool-2-thread-1] INFO  infoLogger - Response message sent
+16:58:12.443 [pool-2-thread-2] INFO  infoLogger - Message received
+16:58:12.758 [pool-2-thread-2] INFO  infoLogger - user Slavik updated in database
+16:58:12.802 [pool-2-thread-2] INFO  infoLogger - Slavik - update successful
+16:58:12.806 [pool-2-thread-2] INFO  infoLogger - Response message sent
+16:58:36.986 [pool-2-thread-3] INFO  infoLogger - Message received
+16:58:37.075 [pool-2-thread-3] INFO  infoLogger - user Slavik logged in to database
+16:58:37.075 [pool-2-thread-3] INFO  infoLogger - Slavik - login successful
+16:58:37.077 [pool-2-thread-3] INFO  infoLogger - Response message sent
+16:58:50.222 [pool-2-thread-4] INFO  infoLogger - Message received
+16:58:50.267 [pool-2-thread-4] INFO  infoLogger - user Slavik updated in database
+16:58:50.310 [pool-2-thread-4] INFO  infoLogger - Slavik - update successful
+16:58:50.314 [pool-2-thread-4] INFO  infoLogger - Response message sent
+16:59:32.436 [pool-2-thread-5] INFO  infoLogger - Message received
+16:59:32.445 [main] INFO  infoLogger - Server socket closed
+16:59:32.448 [main] INFO  infoLogger - Connection manager closed
+16:59:32.448 [main] INFO  infoLogger - Application stopped
+17:03:22.696 [main] INFO  infoLogger - Application context initialized
+17:03:22.854 [main] INFO  infoLogger - Connection manager initialized
+17:03:23.875 [main] INFO  infoLogger - user testUser1 added to database
+17:03:24.323 [main] INFO  infoLogger - user testUser1 updated in database
+17:03:24.726 [main] INFO  infoLogger - user testUser1 deleted from database
+17:03:24.856 [main] INFO  infoLogger - user testUser1 added to database
+17:03:25.244 [main] INFO  infoLogger - user testUser1 updated in database
+17:03:25.374 [main] INFO  infoLogger - user testUser1 deleted from database
+17:03:25.378 [main] INFO  infoLogger - Application context initialized
+17:03:25.548 [main] INFO  infoLogger - user testUser1 added to database
+17:03:25.633 [main] INFO  infoLogger - user testUser1 logged in to database
+17:03:25.718 [main] INFO  infoLogger - user testUser1 deleted from database
+17:03:25.846 [main] INFO  infoLogger - user testUser1 added to database
+17:03:25.890 [main] INFO  infoLogger - user testUser1 updated in database
+17:03:26.016 [main] INFO  infoLogger - user testUser1 logged in to database
+17:03:26.059 [main] INFO  infoLogger - user testUser1 deleted from database
+17:03:26.188 [main] INFO  infoLogger - user testUser1 added to database
+17:03:26.273 [main] INFO  infoLogger - user testUser1 deleted from database
+17:09:44.548 [main] INFO  infoLogger - Application started
+17:09:44.551 [main] INFO  infoLogger - Application context initialized
+17:09:44.555 [Thread-1] INFO  infoLogger - Server socket ready
+17:10:52.488 [pool-2-thread-1] INFO  infoLogger - Message received
+17:10:52.705 [pool-2-thread-1] INFO  infoLogger - Connection manager initialized
+17:10:53.746 [pool-2-thread-1] INFO  infoLogger - user Slavik logged in to database
+17:10:53.747 [pool-2-thread-1] INFO  infoLogger - Slavik - login successful
+17:10:53.754 [pool-2-thread-1] INFO  infoLogger - Response message sent
+17:12:07.062 [pool-2-thread-2] INFO  infoLogger - Message received
+17:12:07.204 [pool-2-thread-2] INFO  infoLogger - user Slavik updated in database
+17:12:07.248 [pool-2-thread-2] INFO  infoLogger - Slavik - update successful
+17:12:07.253 [pool-2-thread-2] INFO  infoLogger - Response message sent
+17:12:23.233 [pool-2-thread-3] INFO  infoLogger - Message received
+17:12:23.243 [main] INFO  infoLogger - Server socket closed
+17:12:23.246 [main] INFO  infoLogger - Connection manager closed
+17:12:23.247 [main] INFO  infoLogger - Application stopped
